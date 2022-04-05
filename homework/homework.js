@@ -91,6 +91,7 @@ function esEntero(numero) {
   //hola otro comit
   //otro cambio
   //otro cambio mas
+  //otro y otro cambio 
   
 }
 
@@ -99,6 +100,8 @@ function fizzBuzz(numero) {
   // Si "numero" es divisible entre 5, devuelve "buzz"
   // Si "numero" es divisible entre 3 y 5 (ambos), devuelve "fizzbuzz"
   // De lo contrario, devuelve el numero
+  // cambios para ver commits
+  
 }
 
 function operadoresLogicos(num1, num2, num3) {
