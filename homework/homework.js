@@ -88,7 +88,7 @@ function esEntero(numero) {
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
   return numero % 1 === 0
-  
+  //hola otro comit
 }
 
 function fizzBuzz(numero) {
