@@ -89,6 +89,9 @@ function esEntero(numero) {
   // Tu código:
   return numero % 1 === 0
   //hola otro comit
+  //otro cambio
+  //otro cambio mas
+  
 }
 
 function fizzBuzz(numero) {
